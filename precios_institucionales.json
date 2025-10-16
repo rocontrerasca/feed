@@ -1,19 +1,19 @@
 {
-  "ts_col": "2025-10-16T03:03:35-05:00",
+  "ts_col": "2025-10-16T03:08:26-05:00",
   "xau": {
     "swissquote": {
-      "price": 4234.0,
-      "bid": 4233.877,
-      "ask": 4234.123,
-      "ts_src": "2025-10-16T08:03:01+00:00",
-      "ts_src_col": "2025-10-16T03:03:01-05:00",
+      "price": 4232.86,
+      "bid": 4232.737,
+      "ask": 4232.983,
+      "ts_src": "2025-10-16T08:07:51+00:00",
+      "ts_src_col": "2025-10-16T03:07:51-05:00",
       "platform": "SwissquoteCapitalMarkets",
       "server": "Live7",
       "profile": "elite",
       "note": "Swissquote mejor liquidez"
     },
     "institucional": {
-      "price": 4234.0,
+      "price": 4232.86,
       "bid": null,
       "ask": null,
       "ts_src": null,
@@ -24,8 +24,8 @@
       "note": "XAU: 100% Swissquote"
     },
     "volatility": {
-      "atr_cc_14": 0.9243588755802793,
-      "atr_pct": 0.02183181094899101,
+      "atr_cc_14": 0.9641860239248864,
+      "atr_pct": 0.022778594707240175,
       "range_24h_local": {
         "high": 4241.47,
         "low": 4216.235,
@@ -35,7 +35,7 @@
   },
   "btc": {
     "coingecko": {
-      "price": 110590.0,
+      "price": 110513.0,
       "bid": null,
       "ask": null,
       "ts_src": null,
@@ -46,7 +46,7 @@
       "note": "CoinGecko simple/price"
     },
     "coinbase": {
-      "price": 110547.985,
+      "price": 110506.345,
       "bid": null,
       "ask": null,
       "ts_src": null,
@@ -57,7 +57,7 @@
       "note": "Coinbase Spot"
     },
     "institucional": {
-      "price": 110573.194,
+      "price": 110510.338,
       "bid": null,
       "ask": null,
       "ts_src": null,
@@ -68,12 +68,12 @@
       "note": "BTC: 60% CoinGecko + 40% Coinbase"
     },
     "volatility": {
-      "atr_cc_14": 28.960016159438084,
-      "atr_pct": 0.02619081091158322,
+      "atr_cc_14": 29.24886570783138,
+      "atr_pct": 0.02646708555703755,
       "range_24h_local": {
         "high": 111782.486,
-        "low": 110573.194,
-        "width": 1209.2920000000013
+        "low": 110496.43,
+        "width": 1286.0560000000114
       }
     }
   }
