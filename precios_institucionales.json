@@ -1,19 +1,19 @@
 {
-  "ts_col": "2025-10-16T05:52:50-05:00",
+  "ts_col": "2025-10-16T05:57:43-05:00",
   "xau": {
     "swissquote": {
-      "price": 4240.76,
-      "bid": 4240.637,
-      "ask": 4240.883,
-      "ts_src": "2025-10-16T10:52:14+00:00",
-      "ts_src_col": "2025-10-16T05:52:14-05:00",
+      "price": 4243.55,
+      "bid": 4243.427,
+      "ask": 4243.673,
+      "ts_src": "2025-10-16T10:57:09+00:00",
+      "ts_src_col": "2025-10-16T05:57:09-05:00",
       "platform": "SwissquoteCapitalMarkets",
       "server": "Live7",
       "profile": "elite",
       "note": "Swissquote mejor liquidez"
     },
     "institucional": {
-      "price": 4240.76,
+      "price": 4243.55,
       "bid": null,
       "ask": null,
       "ts_src": null,
@@ -24,18 +24,18 @@
       "note": "XAU: 100% Swissquote"
     },
     "volatility": {
-      "atr_cc_14": 0.9651087886157514,
-      "atr_pct": 0.022757920481605923,
+      "atr_cc_14": 1.0277966503603502,
+      "atr_pct": 0.02422020832464211,
       "range_24h_local": {
-        "high": 4242.76,
+        "high": 4243.55,
         "low": 4216.235,
-        "width": 26.525000000000546
+        "width": 27.31500000000051
       }
     }
   },
   "btc": {
     "coingecko": {
-      "price": 111601.0,
+      "price": 111551.0,
       "bid": null,
       "ask": null,
       "ts_src": null,
@@ -46,7 +46,7 @@
       "note": "CoinGecko simple/price"
     },
     "coinbase": {
-      "price": 111545.565,
+      "price": 111633.365,
       "bid": null,
       "ask": null,
       "ts_src": null,
@@ -57,7 +57,7 @@
       "note": "Coinbase Spot"
     },
     "institucional": {
-      "price": 111578.826,
+      "price": 111583.946,
       "bid": null,
       "ask": null,
       "ts_src": null,
@@ -68,8 +68,8 @@
       "note": "BTC: 60% CoinGecko + 40% Coinbase"
     },
     "volatility": {
-      "atr_cc_14": 41.08069183211569,
-      "atr_pct": 0.0368176412181606,
+      "atr_cc_14": 33.657748525930565,
+      "atr_pct": 0.03016361200018017,
       "range_24h_local": {
         "high": 111782.486,
         "low": 109750.714,
