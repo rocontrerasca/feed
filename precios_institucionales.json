@@ -1,19 +1,19 @@
 {
-  "ts_col": "2025-10-16T05:43:01-05:00",
+  "ts_col": "2025-10-16T05:47:54-05:00",
   "xau": {
     "swissquote": {
-      "price": 4237.575,
-      "bid": 4237.452,
-      "ask": 4237.698,
-      "ts_src": "2025-10-16T10:42:28+00:00",
-      "ts_src_col": "2025-10-16T05:42:28-05:00",
+      "price": 4239.595,
+      "bid": 4239.472,
+      "ask": 4239.718,
+      "ts_src": "2025-10-16T10:47:20+00:00",
+      "ts_src_col": "2025-10-16T05:47:20-05:00",
       "platform": "SwissquoteCapitalMarkets",
       "server": "Live7",
       "profile": "elite",
       "note": "Swissquote mejor liquidez"
     },
     "institucional": {
-      "price": 4237.575,
+      "price": 4239.595,
       "bid": null,
       "ask": null,
       "ts_src": null,
@@ -24,8 +24,8 @@
       "note": "XAU: 100% Swissquote"
     },
     "volatility": {
-      "atr_cc_14": 1.0489649875929297,
-      "atr_pct": 0.024753897868307458,
+      "atr_cc_14": 1.0859187601099665,
+      "atr_pct": 0.025613738107294833,
       "range_24h_local": {
         "high": 4242.76,
         "low": 4216.235,
@@ -35,7 +35,7 @@
   },
   "btc": {
     "coingecko": {
-      "price": 111424.0,
+      "price": 111551.0,
       "bid": null,
       "ask": null,
       "ts_src": null,
@@ -46,7 +46,7 @@
       "note": "CoinGecko simple/price"
     },
     "coinbase": {
-      "price": 111515.965,
+      "price": 111568.865,
       "bid": null,
       "ask": null,
       "ts_src": null,
@@ -57,7 +57,7 @@
       "note": "Coinbase Spot"
     },
     "institucional": {
-      "price": 111460.786,
+      "price": 111558.146,
       "bid": null,
       "ask": null,
       "ts_src": null,
@@ -68,8 +68,8 @@
       "note": "BTC: 60% CoinGecko + 40% Coinbase"
     },
     "volatility": {
-      "atr_cc_14": 51.8569644514264,
-      "atr_pct": 0.046524850857795313,
+      "atr_cc_14": 47.968037499921145,
+      "atr_pct": 0.04299823833565784,
       "range_24h_local": {
         "high": 111782.486,
         "low": 109750.714,
