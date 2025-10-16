@@ -1,19 +1,19 @@
 {
-  "ts_col": "2025-10-16T07:50:08-05:00",
+  "ts_col": "2025-10-16T07:51:46-05:00",
   "xau": {
     "swissquote": {
-      "price": 4239.575,
-      "bid": 4239.452,
-      "ask": 4239.698,
-      "ts_src": "2025-10-16T12:49:33+00:00",
-      "ts_src_col": "2025-10-16T07:49:33-05:00",
+      "price": 4238.08,
+      "bid": 4237.957,
+      "ask": 4238.203,
+      "ts_src": "2025-10-16T12:51:11+00:00",
+      "ts_src_col": "2025-10-16T07:51:11-05:00",
       "platform": "SwissquoteCapitalMarkets",
       "server": "Live7",
       "profile": "elite",
       "note": "Swissquote mejor liquidez"
     },
     "institucional": {
-      "price": 4239.575,
+      "price": 4238.08,
       "bid": null,
       "ask": null,
       "ts_src": null,
@@ -35,7 +35,7 @@
   },
   "btc": {
     "coingecko": {
-      "price": 111475.0,
+      "price": 111521.0,
       "bid": null,
       "ask": null,
       "ts_src": null,
@@ -46,7 +46,7 @@
       "note": "CoinGecko simple/price"
     },
     "coinbase": {
-      "price": 111507.105,
+      "price": 111557.755,
       "bid": null,
       "ask": null,
       "ts_src": null,
@@ -57,7 +57,7 @@
       "note": "Coinbase Spot"
     },
     "institucional": {
-      "price": 111487.842,
+      "price": 111535.70199999999,
       "bid": null,
       "ask": null,
       "ts_src": null,
