@@ -1,19 +1,19 @@
 {
-  "ts_col": "2025-10-16T12:19:17-05:00",
+  "ts_col": "2025-10-16T12:20:56-05:00",
   "xau": {
     "swissquote": {
-      "price": 4292.115,
-      "bid": 4291.992,
-      "ask": 4292.238,
-      "ts_src": "2025-10-16T17:18:42+00:00",
-      "ts_src_col": "2025-10-16T12:18:42-05:00",
+      "price": 4293.8,
+      "bid": 4293.677,
+      "ask": 4293.923,
+      "ts_src": "2025-10-16T17:20:21+00:00",
+      "ts_src_col": "2025-10-16T12:20:21-05:00",
       "platform": "SwissquoteCapitalMarkets",
       "server": "Live7",
       "profile": "elite",
       "note": "Swissquote mejor liquidez"
     },
     "institucional": {
-      "price": 4292.115,
+      "price": 4293.8,
       "bid": null,
       "ask": null,
       "ts_src": null,
@@ -24,18 +24,18 @@
       "note": "XAU: 100% Swissquote"
     },
     "volatility": {
-      "atr_cc_14": 2.0817313231109393,
-      "atr_pct": 0.04850129418971625,
+      "atr_cc_14": 2.0533933714601864,
+      "atr_pct": 0.047822287285392576,
       "range_24h_local": {
-        "high": 4292.115,
+        "high": 4293.8,
         "low": 4233.395,
-        "width": 58.719999999999345
+        "width": 60.404999999999745
       }
     }
   },
   "btc": {
     "coingecko": {
-      "price": 108845.0,
+      "price": 109069.0,
       "bid": null,
       "ask": null,
       "ts_src": null,
@@ -46,7 +46,7 @@
       "note": "CoinGecko simple/price"
     },
     "coinbase": {
-      "price": 109197.035,
+      "price": 108858.975,
       "bid": null,
       "ask": null,
       "ts_src": null,
@@ -57,7 +57,7 @@
       "note": "Coinbase Spot"
     },
     "institucional": {
-      "price": 108985.81400000001,
+      "price": 108984.98999999999,
       "bid": null,
       "ask": null,
       "ts_src": null,
@@ -68,8 +68,8 @@
       "note": "BTC: 60% CoinGecko + 40% Coinbase"
     },
     "volatility": {
-      "atr_cc_14": 91.50917341814485,
-      "atr_pct": 0.08396429779213728,
+      "atr_cc_14": 85.0316610311361,
+      "atr_pct": 0.07802144224735544,
       "range_24h_local": {
         "high": 111642.788,
         "low": 107801.07,
