@@ -1,19 +1,19 @@
 {
-  "ts_col": "2025-10-16T09:12:47-05:00",
+  "ts_col": "2025-10-16T09:14:26-05:00",
   "xau": {
     "swissquote": {
-      "price": 4262.245,
-      "bid": 4262.122,
-      "ask": 4262.368,
-      "ts_src": "2025-10-16T14:12:12+00:00",
-      "ts_src_col": "2025-10-16T09:12:12-05:00",
+      "price": 4263.91,
+      "bid": 4263.787,
+      "ask": 4264.033,
+      "ts_src": "2025-10-16T14:13:51+00:00",
+      "ts_src_col": "2025-10-16T09:13:51-05:00",
       "platform": "SwissquoteCapitalMarkets",
       "server": "Live7",
       "profile": "elite",
       "note": "Swissquote mejor liquidez"
     },
     "institucional": {
-      "price": 4262.245,
+      "price": 4263.91,
       "bid": null,
       "ask": null,
       "ts_src": null,
@@ -24,18 +24,18 @@
       "note": "XAU: 100% Swissquote"
     },
     "volatility": {
-      "atr_cc_14": 2.0364536569481837,
-      "atr_pct": 0.047778897199672564,
+      "atr_cc_14": 2.0099212528804538,
+      "atr_pct": 0.04713798492183123,
       "range_24h_local": {
-        "high": 4262.385,
+        "high": 4263.91,
         "low": 4233.395,
-        "width": 28.98999999999978
+        "width": 30.514999999999418
       }
     }
   },
   "btc": {
     "coingecko": {
-      "price": 110497.0,
+      "price": 110401.0,
       "bid": null,
       "ask": null,
       "ts_src": null,
@@ -46,7 +46,7 @@
       "note": "CoinGecko simple/price"
     },
     "coinbase": {
-      "price": 110319.745,
+      "price": 110243.76,
       "bid": null,
       "ask": null,
       "ts_src": null,
@@ -57,7 +57,7 @@
       "note": "Coinbase Spot"
     },
     "institucional": {
-      "price": 110426.098,
+      "price": 110338.10399999999,
       "bid": null,
       "ask": null,
       "ts_src": null,
@@ -68,12 +68,12 @@
       "note": "BTC: 60% CoinGecko + 40% Coinbase"
     },
     "volatility": {
-      "atr_cc_14": 63.28831109730794,
-      "atr_pct": 0.057312820287562766,
+      "atr_cc_14": 65.05300316178638,
+      "atr_pct": 0.05895787656618278,
       "range_24h_local": {
         "high": 111642.788,
-        "low": 110426.098,
-        "width": 1216.6900000000023
+        "low": 110338.10399999999,
+        "width": 1304.6840000000084
       }
     }
   }
