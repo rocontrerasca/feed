@@ -1,19 +1,19 @@
 {
-  "ts_col": "2025-10-16T04:36:17-05:00",
+  "ts_col": "2025-10-16T04:41:10-05:00",
   "xau": {
     "swissquote": {
-      "price": 4224.545,
-      "bid": 4224.422,
-      "ask": 4224.668,
-      "ts_src": "2025-10-16T09:35:43+00:00",
-      "ts_src_col": "2025-10-16T04:35:43-05:00",
+      "price": 4224.18,
+      "bid": 4224.057,
+      "ask": 4224.303,
+      "ts_src": "2025-10-16T09:40:37+00:00",
+      "ts_src_col": "2025-10-16T04:40:37-05:00",
       "platform": "SwissquoteCapitalMarkets",
       "server": "Live7",
       "profile": "elite",
       "note": "Swissquote mejor liquidez"
     },
     "institucional": {
-      "price": 4224.545,
+      "price": 4224.18,
       "bid": null,
       "ask": null,
       "ts_src": null,
@@ -24,8 +24,8 @@
       "note": "XAU: 100% Swissquote"
     },
     "volatility": {
-      "atr_cc_14": 0.9407142046397798,
-      "atr_pct": 0.022267823035138218,
+      "atr_cc_14": 0.9723192811930029,
+      "atr_pct": 0.02301794149853943,
       "range_24h_local": {
         "high": 4241.47,
         "low": 4216.235,
@@ -35,7 +35,7 @@
   },
   "btc": {
     "coingecko": {
-      "price": 110311.0,
+      "price": 109774.0,
       "bid": null,
       "ask": null,
       "ts_src": null,
@@ -46,7 +46,7 @@
       "note": "CoinGecko simple/price"
     },
     "coinbase": {
-      "price": 109967.585,
+      "price": 109715.785,
       "bid": null,
       "ask": null,
       "ts_src": null,
@@ -57,7 +57,7 @@
       "note": "Coinbase Spot"
     },
     "institucional": {
-      "price": 110173.63399999999,
+      "price": 109750.714,
       "bid": null,
       "ask": null,
       "ts_src": null,
@@ -68,12 +68,12 @@
       "note": "BTC: 60% CoinGecko + 40% Coinbase"
     },
     "volatility": {
-      "atr_cc_14": 64.07344054361974,
-      "atr_pct": 0.05815678236012415,
+      "atr_cc_14": 79.33611693670908,
+      "atr_pct": 0.07228756337449346,
       "range_24h_local": {
         "high": 111782.486,
-        "low": 110173.63399999999,
-        "width": 1608.8520000000135
+        "low": 109750.714,
+        "width": 2031.7719999999972
       }
     }
   }
